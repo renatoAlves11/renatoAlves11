@@ -9,7 +9,7 @@
 
 ## Current focus
 - 🤖 Machine learning and its applications in affective computing
-- 🕹️ Games development
+- 🕹️ Game development
 - 🎲 Gamification in education
 
 ## How to reach me
