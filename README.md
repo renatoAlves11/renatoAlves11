@@ -1,6 +1,6 @@
 # Hello World! I'm Renato Alves 👋
 
- I'm a computer science studant who loves coding and learning. 
+ I'm a computer science student who loves coding and learning. 
 
 ## About me
 - 🐺 Active member of Wolfbyte Games at IEEE CEFET/RJ student branch.
