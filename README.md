@@ -2,11 +2,6 @@
 
  I'm a computer science studant who loves coding and learning. 
 
-<!--
-**renatoAlves11/renatoAlves11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 ## About me
 - 🐺 Active member of Wolfbyte Games at IEEE CEFET/RJ student branch.
 - ☕ I love Java, but there's space for C/C++ in my heart
