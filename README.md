@@ -19,6 +19,6 @@
 
 ## Skills
 
-![Java](https://img.shields.io/badge/Java-%23F7DF1E?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776ab?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-%23F7DF1E?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
+[![Python](https://img.shields.io/badge/Python-%233776ab?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
