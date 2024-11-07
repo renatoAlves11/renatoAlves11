@@ -4,7 +4,7 @@
 
 ## About me
 - 🐺 Active member of Wolfbyte Games at IEEE CEFET/RJ student branch.
-- ☕ I love Java, but there's space for C/C++ in my heart
+- ☕ I love Java, but I also have a special place for C/C++ in my heart.
 - 🖥️ A fan of competitive programming
 
 ## Current focus
