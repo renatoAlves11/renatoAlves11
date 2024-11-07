@@ -1,9 +1,13 @@
-## Hi there 👋
+## Hello World! I'm Renato Alves 👋
+
+ I'm a computer science studant who loves coding and learning. 
 
 <!--
 **renatoAlves11/renatoAlves11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+##About me
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##How to reach me
+
+[![Email]](renato.alvs1103@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/renato-alves-457a52300/)
+
