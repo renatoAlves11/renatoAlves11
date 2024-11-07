@@ -1,4 +1,4 @@
-## Hello World! I'm Renato Alves 👋
+# Hello World! I'm Renato Alves 👋
 
  I'm a computer science studant who loves coding and learning. 
 
@@ -7,17 +7,16 @@
 
 Here are some ideas to get you started:
 
-##About me
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## About me
+- 🐺 Active member of Wolfbyte Games at IEEE CEFET/RJ student branch.
+- ☕ I love Java, but there's space for C/C++ in my heart
+- 🖥️ A fan of competitive programming
 -->
+
+## Current focus
+- 🤖 Machine learning and its application in affective computing
+- 🕹️ Games development
+- 🎲 Gamification in education
 
 ## How to reach me
 
