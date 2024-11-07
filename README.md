@@ -8,7 +8,7 @@
 - 🖥️ A fan of competitive programming
 
 ## Current focus
-- 🤖 Machine learning and its application in affective computing
+- 🤖 Machine learning and its applications in affective computing
 - 🕹️ Games development
 - 🎲 Gamification in education
 
