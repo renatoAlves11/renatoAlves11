@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 ##How to reach me
 
-[![Email]]([renato.alvs1103@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white))](mailto:renato.alvs1103@gmail.com)
-[![LinkedIn]([https://www.linkedin.com/in/renato-alves-457a52300/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-alves-457a52300/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renato.alvs1103@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-alves-457a52300/)
 
