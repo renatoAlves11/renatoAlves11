@@ -3,8 +3,8 @@
  I'm a computer science student who loves coding and learning. 
 
 ## About me
-- 🐺 Active member of Wolfbyte Games at IEEE CEFET/RJ student branch.
-- ☕ I love Java, but I also have a special place for C/C++ in my heart.
+- 🐺 Active member of Wolfbyte Games at IEEE CEFET/RJ student branch
+- ☕ I love Java, but I also have a special place for C/C++ in my heart
 - 🖥️ A fan of competitive programming
 
 ## Current focus
